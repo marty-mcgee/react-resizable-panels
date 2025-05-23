@@ -1,6 +1,6 @@
 {
-  "name": "react-resizable-panels-website",
-  "version": "0.0.1",
+  "name": "threed-react-resizable-panels-website",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "build": "parcel build \"index.html\"",
